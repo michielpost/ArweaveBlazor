@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArweaveBlazor.SampleApp", "ArweaveBlazor.SampleApp\ArweaveBlazor.SampleApp.csproj", "{BC086CD3-9EBD-4479-AFA4-FB745C86535F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArweaveBlazor", "ArweaveBlazor\ArweaveBlazor.csproj", "{F7D98BE3-1936-4C40-8BDC-C15F3B3A3ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC086CD3-9EBD-4479-AFA4-FB745C86535F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC086CD3-9EBD-4479-AFA4-FB745C86535F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC086CD3-9EBD-4479-AFA4-FB745C86535F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC086CD3-9EBD-4479-AFA4-FB745C86535F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D98BE3-1936-4C40-8BDC-C15F3B3A3ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D98BE3-1936-4C40-8BDC-C15F3B3A3ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D98BE3-1936-4C40-8BDC-C15F3B3A3ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D98BE3-1936-4C40-8BDC-C15F3B3A3ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B934E9C-18C3-4E0E-8FBA-6B8E84FC6A13}
+	EndGlobalSection
+EndGlobal
